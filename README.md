@@ -4,7 +4,7 @@ Demonstrates C# Winforms and Adobe Photoshop Hangman. <br />
 Experimented with .gif files generated with Photoshop's timeframe feature to create an immersive and unique hangman experience.<br />
 Not currently maintained or updated since 2020.
 
-#note
+# note
 After you have successfully or unsucessfully completed the word, the application should be relaunched to generate a new word.
 
 # startup
