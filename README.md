@@ -5,7 +5,7 @@ Experimented with .gif files generated with Photoshop's timeframe feature to cre
 Not currently maintained or updated since 2020.
 
 # note
-After you have successfully or unsucessfully completed the word, the application should be relaunched to generate a new word.
+After you have successfully or unsucessfully completed the hangman word, the application should be relaunched to generate a new word.
 
 # startup
 Upload files into Visual Studio 2019. The .vs file should generate appropriately. <br />
