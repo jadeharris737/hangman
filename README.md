@@ -1,5 +1,7 @@
 # hangman
-Project of Year 11 (2020) Software Design and Development HSC course. C# Winforms and Adobe Photoshop Hangman. Experimented with .gif generated with Photoshop's timeframe feature to create an immersive and unique hangman experience.
+Project completed during the Year 11 (2020) Software Design and Development HSC course. 
+C# Winforms and Adobe Photoshop Hangman. 
+Experimented with .gif generated with Photoshop's timeframe feature to create an immersive and unique hangman experience.
 
 # startup
 Upload files into Visual Studio 2019. The .vs file should generate appropriately. 
